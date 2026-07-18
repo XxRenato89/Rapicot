@@ -34,10 +34,10 @@ yarn-error.log*
 .env*
 .env.local.example
 
-# prompts models
-*.sql
-*.txt
-/docs
+# prompts models (se comentan para permitir subirlos a GitHub si lo deseas)
+# *.sql
+# *.txt
+# /docs
 
 # vercel
 .vercel
